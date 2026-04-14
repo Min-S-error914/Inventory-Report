@@ -1,0 +1,18 @@
+USER GUIDE
+
+1. Open the Excel file
+2. Enter product data:
+   - Item ID
+   - Date
+   - Product Name
+   - Stock In / Stock Out
+   - Unit Price
+
+3. Total Value will calculate automatically
+
+4. Check summary at bottom:
+   - Total Items
+   - Total Stock
+   - Inventory Value
+
+5. Do not delete formula cells
