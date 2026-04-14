@@ -1,0 +1,22 @@
+FORMULAS USED IN PROJECT:
+
+1. Total Value:
+=Stock In * Unit Price
+
+2. Total Items:
+=COUNTA(A7:A26)
+
+3. Total Stock In:
+=SUM(D7:D26)
+
+4. Total Stock Out:
+=SUM(E7:E26)
+
+5. Total Inventory Value:
+=SUM(G7:G26)
+
+6. Highest Value:
+=MAX(G7:G26)
+
+7. Lowest Value:
+=MIN(G7:G26)
